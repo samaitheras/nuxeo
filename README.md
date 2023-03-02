@@ -1,2 +1,2 @@
 # nuxeo
-Nuxeo Docker files
+Nuxeo Docker installation files
